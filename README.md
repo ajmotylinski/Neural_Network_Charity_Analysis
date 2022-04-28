@@ -4,7 +4,7 @@
 Attempt 1 
 - Removing "Special Considerations" from the model
 
-![Attempt 1](../main/resources/attempt 1.png)
+![Attempt 1](../main/resources/attempt1.png)
 
 Attempt 2
 - Removing "Special Considerations" from the model
