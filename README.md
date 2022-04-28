@@ -9,7 +9,7 @@ Attempt 1
 Attempt 2
 - Removing "Special Considerations" from the model
 - Add hidden layer with 25
-- 
+
 ![Attempt 2](../main/resources/attempt2.png)
 
 Attempt 3
