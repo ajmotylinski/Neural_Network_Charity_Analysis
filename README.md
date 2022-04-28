@@ -3,6 +3,7 @@
 ## Optimizations
 Attempt 1 
 - Removing "Special Considerations" from the model
+
 ![Attempt 1](../main/resources/attempt 1.png)
 
 Attempt 2
